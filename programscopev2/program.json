@@ -1,0 +1,10 @@
+{
+    "program": "programscopev2.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpDPf4J7R3yuDKtjernBgGeBDxUrNJ2thkaWgMXrH21Tqi",
+        "address": "aleo199ylafxh54k4t7dnfr4vw7a6t7svys9a7fpvuu2lzgvwll5u9ggssn5wk3"
+    },
+    "license": "MIT"
+}

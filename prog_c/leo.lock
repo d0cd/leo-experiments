@@ -1,0 +1,13 @@
+[[package]]
+name = "prog_a"
+location = "local"
+path = "prog_b/prog_a"
+checksum = "e8693ef4e2aea14672a5ef7b6cff49eed37a144d42b98ea77a858dd81ac9e726"
+dependencies = []
+
+[[package]]
+name = "prog_b"
+location = "local"
+path = "prog_b"
+checksum = "c21845cbbf67d5a9c3c928702157de2c0e5f109c7c3a6071bb4b0e8783744e47"
+dependencies = ["prog_a.aleo"]

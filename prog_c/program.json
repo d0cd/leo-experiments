@@ -1,0 +1,18 @@
+{
+    "program": "prog_c.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "license": "MIT",
+    "dependencies": [
+        {
+            "name": "prog_a.aleo",
+            "location": "local",
+            "path": "prog_b/prog_a"
+        },
+        {
+            "name": "prog_b.aleo",
+            "location": "local",
+            "path": "prog_b"
+        }
+    ]
+}

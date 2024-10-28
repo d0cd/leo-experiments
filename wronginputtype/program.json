@@ -1,0 +1,10 @@
+{
+    "program": "wronginputtype.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpBQtht3UwUCGPUfL47xTbwRG2LxfeFywR6weFHiESPdGx",
+        "address": "aleo14j69lrnfhw4d98v0fa0dndfxerl02k84pcanthnxjy334nzjes9smkdku8"
+    },
+    "license": "MIT"
+}

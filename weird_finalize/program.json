@@ -1,0 +1,10 @@
+{
+    "program": "weird_finalize.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpEMDVJ284ZessJnhQPgq7oCx27eEsEctpbApyd5uMk9Bh",
+        "address": "aleo1sk2vvlhmjj7ff4rgzyujq7cjrcrtfamjgn7p8gamqng22dg76cgqsu07dv"
+    },
+    "license": "MIT"
+}

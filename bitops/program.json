@@ -1,0 +1,10 @@
+{
+    "program": "bitops.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpBnNMVYC21iLQTbks8xoEHkcWzPTorGJHMdpxp2tY5odv",
+        "address": "aleo1meceuthd86qgd3dv452jtcwrt4tfuf5cdxjrcxkynp8l6wgeygzqd7gazp"
+    },
+    "license": "MIT"
+}

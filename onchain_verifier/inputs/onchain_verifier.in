@@ -1,0 +1,33 @@
+// The program input for onchain_verifier/src/main.leo
+[verify_dob]
+rec: SignedCredential = SignedCredential {
+    owner: aleo14w44zfrehup9g894j7tgeyz5gsjuxn0nfn09vd2fvpznrg85rs8skywkte,
+    credential: Credentials {
+        issuer: aleo14w44zfrehup9g894j7tgeyz5gsjuxn0nfn09vd2fvpznrg85rs8skywkte,
+        subject: aleo14w44zfrehup9g894j7tgeyz5gsjuxn0nfn09vd2fvpznrg85rs8skywkte,
+        dob: 20231024field,
+        nationality: 18417264016253294field,
+        expiry: 20231031field
+    },
+    sig: sign1mxhd5jv5ltkxzh8eqywc3m0g6s62p8dafs9vhpddfeca2dcawuqp6cmkj2rs9qgj4meuzrjnezmwqys37aahvlfmy7qn634cyygx6q8f7r3ha5jtug2jyj589saaesfgr207yvnx8qya6hs9k8lyptdap9detfpgjafy925s6jeh2g7k49ate9u583r8azzg598rd544qgts64cwrgq,
+    _nonce: 0group,
+};
+dob: field = 20231024field;
+currentDate: field = 20231024field;
+
+[verify_nationality]
+rec: SignedCredential = SignedCredential {
+    owner: aleo14w44zfrehup9g894j7tgeyz5gsjuxn0nfn09vd2fvpznrg85rs8skywkte,
+    credential: Credentials {
+        issuer: aleo14w44zfrehup9g894j7tgeyz5gsjuxn0nfn09vd2fvpznrg85rs8skywkte,
+        subject: aleo14w44zfrehup9g894j7tgeyz5gsjuxn0nfn09vd2fvpznrg85rs8skywkte,
+        dob: 20231024field,
+        nationality: 18417264016253294field,
+        expiry: 20231031field
+    },
+    sig: sign1mxhd5jv5ltkxzh8eqywc3m0g6s62p8dafs9vhpddfeca2dcawuqp6cmkj2rs9qgj4meuzrjnezmwqys37aahvlfmy7qn634cyygx6q8f7r3ha5jtug2jyj589saaesfgr207yvnx8qya6hs9k8lyptdap9detfpgjafy925s6jeh2g7k49ate9u583r8azzg598rd544qgts64cwrgq,
+    _nonce: 0group,
+};
+nationality: field = 18417264016253294field;
+currentDate: field = 20231024field;
+

@@ -1,0 +1,6 @@
+// The program input for rockpaperscissorsresult/src/main.leo
+[compute_new_balances]
+alice_balance: u32 = 10u32;
+bob_balance: u32 = 5u32;
+alice_move: u8 = 1u8; // Paper
+bob_move: u8 = 0u8; // Rock

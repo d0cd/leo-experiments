@@ -1,0 +1,10 @@
+{
+    "program": "tycslip.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpJBXtx7Avu3d8oAarWH4pnyK6oNJx1kmbazZfNMZp3TGu",
+        "address": "aleo14j0g2qp86ud4604jgwhumwuarymwry0f6h285nzevcxjhp2qhsqq22tnd8"
+    },
+    "license": "MIT"
+}

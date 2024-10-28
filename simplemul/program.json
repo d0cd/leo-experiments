@@ -1,0 +1,10 @@
+{
+    "program": "simplemul.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpBv9xhbxf2Tw4k59viXKczSGTrmgufCQmVtJjbcCHyfZE",
+        "address": "aleo1ft832h53vma7mtv9gzlnyptg8kq857qt9d0g2vjn9aukzf0zegqqjk3gyv"
+    },
+    "license": "MIT"
+}

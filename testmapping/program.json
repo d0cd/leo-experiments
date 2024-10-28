@@ -1,0 +1,10 @@
+{
+    "program": "testmapping.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp8hzKaV57fsbS2v1WFq8vnBS74VfZcpjgzkV6RvPF6vgP",
+        "address": "aleo15k6p3um9kmgcpn7n92ermk9zptxqehf6w5ejq5s6wj4werzekvxsgpjq27"
+    },
+    "license": "MIT"
+}

@@ -1,0 +1,10 @@
+{
+    "program": "switchstructorder.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp6PrKXEV6ouCnw4ZmzEy26E9xT4JER88HZoTW7y7secsh",
+        "address": "aleo14d7f3ggr6nwwjzz32d66lp9d6rymjjfndxk6l4ssu7ge9u6kxvgq6glaej"
+    },
+    "license": "MIT"
+}

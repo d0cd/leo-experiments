@@ -1,0 +1,6 @@
+[[package]]
+name = "prog_a"
+location = "local"
+path = "prog_b/prog_a"
+checksum = "e8693ef4e2aea14672a5ef7b6cff49eed37a144d42b98ea77a858dd81ac9e726"
+dependencies = []

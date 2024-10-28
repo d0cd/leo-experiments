@@ -1,0 +1,4 @@
+// The program input for wronginputtype/src/main.leo
+[main]
+public a: u32 = 1u32;
+b: u64 = 2u64;

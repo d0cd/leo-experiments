@@ -1,0 +1,10 @@
+{
+    "program": "modes.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp91cpRs7nG9XD9PRxaKiaEiAVoJArFJeDrEnG8A6Shv54",
+        "address": "aleo1pvckzvv66pndkclfg8hs6xxpzdmsmv3meu6d7cdxwnzu9gha7vpqn4azyu"
+    },
+    "license": "MIT"
+}

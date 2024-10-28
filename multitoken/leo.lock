@@ -1,0 +1,6 @@
+[[package]]
+name = "token.aleo"
+location = "local"
+path = "/Users/pranav/work/Aleo/leo-programs/multitoken/token"
+checksum = "b0c7c115b0b8e415722d13f735875f256d48a82197ef91bbb31258db10c351d6"
+dependencies = []

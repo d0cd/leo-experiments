@@ -1,0 +1,10 @@
+{
+    "program": "nestedimport.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpHvkHc3T7k3vbpSPnR1UvT3E1c9UjooT8nhypbTpJZFAR",
+        "address": "aleo1hch6j03ydd2p2uhvrmfzq9ymjcskep5z60c4xdhephq79ajw8vyqv85hud"
+    },
+    "license": "MIT"
+}

@@ -1,0 +1,10 @@
+{
+    "program": "assertcodegen.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpCk85UGvQrh2JMHD9D8PVCvkA3yJydC5Q8BCVVvNQG47U",
+        "address": "aleo1t20l4xlhsg69kt4827h5k7zq2fsgqqmkswjf9q3ydhryrgnuxcyqwnldqd"
+    },
+    "license": "MIT"
+}

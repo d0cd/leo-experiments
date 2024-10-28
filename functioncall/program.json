@@ -1,0 +1,10 @@
+{
+    "program": "functioncall.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp71RhLPYAzPDrHvtFc28x3TpK8oUxeNfBaq1aTVthqSHE",
+        "address": "aleo13w6skzk9shht2cy9qlh2rpk9lp3yck370gnh7a3mq2umjvpkmgxq2d09q7"
+    },
+    "license": "MIT"
+}

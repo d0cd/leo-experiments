@@ -1,0 +1,10 @@
+{
+    "program": "rockpaperscissorsresult.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp8NLTSZXSHUA6wHNYg58R3zF2SeuTMjWqN9h6NkUbBjBJ",
+        "address": "aleo192haa25du38u44wcpeyp9pqnua2dmuzz3mk503uaj2dr7vxxeqrqknqyzh"
+    },
+    "license": "MIT"
+}

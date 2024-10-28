@@ -1,0 +1,10 @@
+{
+    "program": "operatormethods.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpJBkaWaXZhZQ1am2tZ2R6xBRWzFzbDSJ3EE1kyTc6EnJW",
+        "address": "aleo1t66rdkd63x5t4n7mh7l0hshz90a6kgj58m6au45380qjem6axgrs6vnth6"
+    },
+    "license": "MIT"
+}

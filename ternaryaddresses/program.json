@@ -1,0 +1,10 @@
+{
+    "program": "ternaryaddresses.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpET2KQFkxbmG4e85cik4zeTv7wKhm6tWu7hQrCDkX2KYU",
+        "address": "aleo1ndg8jry0vkkyxrwggxhvka6e24a5n284wt0heteq68uq5juptsgqn8zesa"
+    },
+    "license": "MIT"
+}

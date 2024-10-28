@@ -1,0 +1,10 @@
+{
+    "program": "visibilities.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp9U2NXuAcz8VpW47yNvw1h24iqB5ZFTS5LTa38urbke4t",
+        "address": "aleo1cu4lgrvekkl2s3ygu4v53fjsvf2ulpreqk53a3u6ygtreeppkygsxzr7mv"
+    },
+    "license": "MIT"
+}

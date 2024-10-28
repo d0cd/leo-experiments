@@ -1,0 +1,10 @@
+{
+    "program": "switchcircuitrow.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpCZKT9LmWGc9H6SVWnzZCKHUcmtCo6ME5iN3YEi7zJrFz",
+        "address": "aleo143y0gcke67mkg05dxwyr8a5s3kp2gk9gpkyqen5myq9d3rrenq9sxepzq8"
+    },
+    "license": "MIT"
+}

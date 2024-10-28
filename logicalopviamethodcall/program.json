@@ -1,0 +1,10 @@
+{
+    "program": "logicalopviamethodcall.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpC6n8XTQKMnRUhRwekvHneAUUVGAGuWezT2fkjtDuDJdM",
+        "address": "aleo1qw83yslnu3lpl8k99k5r5pk3ef37wpek8n5da676hv44d8t62uqqjjm9we"
+    },
+    "license": "MIT"
+}

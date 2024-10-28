@@ -1,0 +1,10 @@
+{
+    "program": "bhp512commit.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp5gS5gRJhcNWY6BnmnhKuRXaA2ojD96CMZqXfYUPGNCFQ",
+        "address": "aleo1fc88c0a53v32agymkydcn28clcnylmckedpnrymdf9vhagu2ycqs93gys8"
+    },
+    "license": "MIT"
+}

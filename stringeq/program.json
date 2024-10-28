@@ -1,0 +1,10 @@
+{
+    "program": "stringeq.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp6oULSbYruPxvaToQyFbgs826RQxPpAfp5oAUrqrs6y69",
+        "address": "aleo10gxqua3n3umt5qxwhvemvyds0870xfu5sf2fmp7nr8t8trf8gurqcj8u8n"
+    },
+    "license": "MIT"
+}

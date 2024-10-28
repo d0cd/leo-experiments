@@ -1,0 +1,10 @@
+{
+    "program": "earlyreturn.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpJqJ75fKSFHkJhVjUrGjCRiGgZeJVp1fjavJmxuGo2X9Z",
+        "address": "aleo1n5j9qn3hskplsnpp8ydy3sszcyysg3z68kjz6ytfzxym4z3s058qe9vea8"
+    },
+    "license": "MIT"
+}

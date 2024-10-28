@@ -1,0 +1,10 @@
+{
+    "program": "externalcall.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp6EQUQHGEH6MzvchJ31Hi31UFcUEw6WmLzr2sXtVt2REb",
+        "address": "aleo19az848u69jflmnd0dmy9576kwj33kec5g45dncf4yg9gzy6fk5rqlr0lye"
+    },
+    "license": "MIT"
+}

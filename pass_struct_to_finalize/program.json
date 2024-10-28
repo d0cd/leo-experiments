@@ -1,0 +1,10 @@
+{
+    "program": "pass_struct_to_finalize.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpHZ2zeYbMCXaXVfevsLRiDpSmktJzMSVv7fazLPYkctUq",
+        "address": "aleo1jmsxmgvquksmjh9uqjxxevqzp86mkuhqshqz8s7kzulqe8kxwvgqlwt7sf"
+    },
+    "license": "MIT"
+}

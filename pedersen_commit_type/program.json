@@ -1,0 +1,10 @@
+{
+    "program": "pedersen_commit_type.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp1wy67Ba8SAbxQ7k594NqyKMH2ehobtpfPWBCbdZ2UAoK",
+        "address": "aleo17rhpxdnw2tc4arx5cyzs3t7nn0gthtxx45kqjdkcsytw93wasvrqwz034s"
+    },
+    "license": "MIT"
+}

@@ -1,0 +1,10 @@
+{
+    "program": "propfunccallprogfunc.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpBsBDN4yad3vQmpmRZkMCtnKh6tRXb3aqb5JRg4Dm4p7Z",
+        "address": "aleo18ggl2ypt9v99vrqprhncg4m9txptezwyhhmvumypqckezq083yrqzph5np"
+    },
+    "license": "MIT"
+}

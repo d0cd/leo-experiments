@@ -1,0 +1,10 @@
+{
+    "program": "charinrecord.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpBrTuwDxoU4LrDZNTo84R9NH2av4a2yNLSCV42PJAMDcQ",
+        "address": "aleo1uwn6m9y726l8g09elh5qq8qn9rhz6l6f2pecen5yy8njuz9w0y9q5v0c0h"
+    },
+    "license": "MIT"
+}

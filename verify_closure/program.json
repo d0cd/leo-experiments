@@ -1,0 +1,10 @@
+{
+    "program": "verify_closure.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpDb8SePyBT8V8S1CsGoXtbbx5abqVAcHgv5fVy6Nav1BC",
+        "address": "aleo1f73yxty9sdmjtfmqq0spcprdgqmh04zzd2gkacpklrargtqg7uxse3zkjl"
+    },
+    "license": "MIT"
+}

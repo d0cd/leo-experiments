@@ -1,0 +1,10 @@
+{
+    "program": "recordinconditionalreturn.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp27kkaNnqk3oirq6aPvCeWSvj7QAVgi6xv7aJMigXKtjA",
+        "address": "aleo1lfapwg53y5enqpt0d8cnef4g8lj7l6g9uhkkma23qyv6jm4ppyfq50regr"
+    },
+    "license": "MIT"
+}

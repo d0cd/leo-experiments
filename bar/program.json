@@ -1,0 +1,10 @@
+{
+    "program": "bar.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp3cuBPavekWYDtKYkDQDtrHQqaaSnjUufLVw44xFrDc1t",
+        "address": "aleo19v4f573grd6500hqvyvs9s7tr7d29s9ql76rxqgj9jhdfymd0q9qjqnq6e"
+    },
+    "license": "MIT"
+}
