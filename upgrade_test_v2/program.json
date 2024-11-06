@@ -1,0 +1,14 @@
+{
+  "program": "upgrade_test_v2.aleo",
+  "version": "0.1.0",
+  "description": "",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "upgrade_test_v1.aleo",
+      "location": "local",
+      "network": null,
+      "path": "../upgrade_test_v1"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+[[package]]
+name = "upgrade_test_v1.aleo"
+location = "local"
+path = "/Users/pranav/work/Aleo/leo-experiments/upgrade_test_v2/../upgrade_test_v1"
+checksum = "1d541135e3b98c96fbc048c741f170e1ac3663631e91e84ca16a2f3d1916bd44"
+dependencies = []
