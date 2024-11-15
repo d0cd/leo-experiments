@@ -1,4 +1,3 @@
-// The 'point_math' program.
 program point_math.aleo {
     record Point {
         owner: address,

@@ -1,0 +1,13 @@
+[[package]]
+name = "credits.aleo"
+network = "testnet"
+location = "network"
+checksum = "e185a49fba7f5e477c3fedf8968be9912ae7d8db34531c246041e899175e4d33"
+dependencies = []
+
+[[package]]
+name = "access_control.aleo"
+location = "local"
+path = "/Users/pranav/work/Aleo/leo-experiments/learning_to_interpret/timelocked_credits/../access_control"
+checksum = "e87e0d4acb5f9cabb87d1e63a6cace04b52b47aa7d75511c57678aaa1a59c315"
+dependencies = []
