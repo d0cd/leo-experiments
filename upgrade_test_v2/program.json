@@ -9,6 +9,18 @@
       "location": "local",
       "network": null,
       "path": "../upgrade_test_v1"
+    },
+    {
+      "name": "credits.aleo",
+      "location": "network",
+      "network": "testnet",
+      "path": null
+    },
+    {
+      "name": "foobarbaz.aleo",
+      "location": "network",
+      "network": "testnet",
+      "path": null
     }
   ]
 }
