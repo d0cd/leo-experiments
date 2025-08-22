@@ -1,0 +1,13 @@
+[[package]]
+name = "room_manager.aleo"
+network = "testnet"
+location = "network"
+checksum = "06b96fa258a1469472562c2ce99c61501854872ad40242f36ff412616b6516f2"
+dependencies = []
+
+[[package]]
+name = "house_dealer.aleo"
+network = "testnet"
+location = "network"
+checksum = "77097a29f7781a148720b9e5c5c84874e4ce088d1a3f0820b9fe6fb3b1076525"
+dependencies = ["room_manager.aleo"]
